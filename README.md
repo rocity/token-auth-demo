@@ -16,7 +16,7 @@ Run `yarn install`
 
 | Tech | Version |
 | ---- | ------- |
-| Python | `>= 3.5.2` |
+| Python | `>= 3.6.5` |
 | Django | `2.0.5` |
 
 # Angular Development
